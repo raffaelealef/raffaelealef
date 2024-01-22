@@ -10,5 +10,5 @@
 
 My skills:
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,aws,flutter,mysql,postgres,sqlite,tensorflow,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,aws,flutter,mysql,postgres,sqlite,tensorflow,html,css,anaconda)](https://skillicons.dev)
 
