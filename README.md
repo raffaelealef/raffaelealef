@@ -4,8 +4,7 @@
 
 - 🌱 I’m currently learning Data Science
 - 🤔 I’m looking for help with DS projects
-- 📫 How to reach me:
-  @knowraphael on insta
+- 📫 Want to see me out of coding?: follow @knowraphael on insta
  - My LinkedIn: https://www.linkedin.com/in/raffaelefruncillo
 
 My skills:
