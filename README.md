@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+23 year old aspiring Data Scientist:
 
 - 🌱 I’m currently learning Data Science
 - 🤔 I’m looking for help with DS projects
-- 📫 How to reach me: @knowraphael on insta
+- 📫 How to reach me:
+  @knowraphael on insta
+ - My LinkedIn: https://www.linkedin.com/in/raffaelefruncillo
 
 My skills:
 
