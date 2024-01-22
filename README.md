@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 
 My skills:
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,aws,flutter,mysql, postgres, tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,aws,flutter,mysql,postgres,tensorflow)](https://skillicons.dev)
 
